@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=StaffHire
+comment1.params=vacancyNumber\ designation\ jobType
+comment1.target=StaffHire(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ It\ is\ the\ constructor\ for\ the\ class\ StaffHire\ which\ initializes\ the\ new\ objects\ and\ doesnot\ have\ a\ return-type.\r\n
+comment2.params=
+comment2.target=int\ getVacancyNumber()
+comment2.text=\r\n\ It\ is\ the\ return\ type\ method\ for\ the\ attribute\ vacancyNumber\ which\ returns\ integer\ value.\ \r\n
+comment3.params=vacancyNumber
+comment3.target=void\ setVacancyNumber(int)
+comment3.text=\r\n\ It\ is\ the\ method\ used\ to\ initialize\ the\ value\ of\ vacancyNumber\ from\ local\ variable\ and\ pass\ it\ to\ instance\ variable.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getdesignation()
+comment4.text=\r\n\ It\ is\ the\ return-type\ method\ which\ returns\ the\ string\ value\ of\ the\ attribute\ designation.\r\n
+comment5.params=designation
+comment5.target=void\ setDesignation(java.lang.String)
+comment5.text=\r\n\ It\ is\ a\ method\ which\ is\ used\ to\ initialize\ the\ value\ of\ the\ designation\ in\ the\ local\ variable\ to\ instance\ variable.\u0000\r\n
+comment6.params=
+comment6.target=java.lang.String\ getjobType()
+comment6.text=\r\n\ It\ is\ the\ return-type\ method\ which\ is\ used\ to\ return\ the\ string\ value\ of\ the\ variable\ or\ the\ at\u0000tribute\ jobType.\r\n
+comment7.params=jobType
+comment7.target=void\ setjobType(java.lang.String)
+comment7.text=\r\n\ it\ is\ a\ method\ used\ to\ initialize\ the\ value\ of\ the\ jobType\ in\ the\ local\ variable\ to\ instance\ variable.\u0000\r\n
+comment8.params=
+comment8.target=void\ display()
+numComments=9
